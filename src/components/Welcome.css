@@ -1,0 +1,7 @@
+.welcome-component {
+    background-position: center center;
+    background-size: cover;
+    background-image: url("../assets/flags.jpg");
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}

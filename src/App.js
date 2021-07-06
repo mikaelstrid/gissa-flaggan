@@ -1,8 +1,9 @@
-import React from 'react';
+import "bootstrap/dist/css/bootstrap.min.css";
+import React from "react";
+import Home from "./pages/Home";
 
 function App() {
-  const value = 'World';
-  return <div>Hello {value}</div>;
+  return <Home />;
 }
 
 export default App;
